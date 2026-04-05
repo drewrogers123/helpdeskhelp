@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        ConnectWise Ticket Monitor
 // @namespace   Violentmonkey Scripts
-// @match       https://*.connectwise.SUBDOMAIN.com/* CHANGE THIS TO YOUR CONNECTWISE URL
+// @match       https://*.connectwise.SUBDOMAIN.com/* CHANGE THIS SUBDOMAIN TO THE SAME ONE IN YOUR CONNECTWISE URL
 // @grant       GM_addStyle
 // @version     2.1
 // @author      drew
